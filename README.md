@@ -14,7 +14,7 @@ The server software that powers the XRP Ledger is called `rippled` and is availa
 * [Mac](Builds/macos/README.md)
 * [Windows](Builds/VisualStudio2017/README.md)
 
-## Key Features of the XRP Ledger
+## Key Features of the XRP Ledger 
 
 - **[Censorship-Resistant Transaction Processing][]:** No single party decides which transactions succeed or fail, and no one can "roll back" a transaction after it completes. As long as those who choose to participate in the network keep it healthy, they can settle transactions in seconds.
 - **[Fast, Efficient Consensus Algorithm][]:** The XRP Ledger's consensus algorithm settles transactions in 4 to 5 seconds, processing at a throughput of up to 1500 transactions per second. These properties put XRP at least an order of magnitude ahead of other top digital assets.
